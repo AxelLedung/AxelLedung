@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AxelLedung
 - 👀 I’m interested in Programming, Computer building and Machine learning
-- 🌱 I’m currently learning teaching Java.
+- 🌱 I’m currently working as a teacher in Java and OOP.
 - 📫 How to reach me axel.ledung@gmail.com
 
 <!---
